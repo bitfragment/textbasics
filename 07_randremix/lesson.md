@@ -16,7 +16,7 @@ What this means is that you can copy a chunk of text from some other source and 
 **Instructions for this exercise**
 
 1. Run the existing program and observe its output.
-2. Copy a sentence, a paragraph, or a sequence of paragraphs from any web page. *Important: choose text that does not contain any double quotation marks — because we are using double quote marks to demarcate a string, here, any double quotation marks in your copied text may cause the program to fail.*
+2. Copy a sentence, a paragraph, or a sequence of paragraphs from any web page. *Important: choose text that does not contain any double quotation marks — because we are using double quote marks to demarcate a string, here, any double quotation marks in your copied text may cause the program to fail.* Replace the string "blue sky washes over me" with your copied text.
 3. Run the program again and observe its output.
 4. Experiment further, if you like (there are no tests to pass in this exercise)
 5. Click "submit" to submit your code.
