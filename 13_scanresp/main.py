@@ -1,8 +1,11 @@
 answer = input("How are you today?")
 
-family_words = ["grandparent", "grandmother", "grandfather",
+generic_response = "What else do you want to talk about?"
+
+family_words = ["family",
+                "grandparent", "grandmother", "grandfather",
                 "parent", "mother", "father", "mom", "dad",
-                "uncle", "aunt", 
+                "uncle", "aunt",
                 "sibling", "sister", "brother", "cousin",
                 "daughter", "son",
                 "niece", "nephew"]
@@ -12,5 +15,8 @@ family_response = "Tell me more about your family."
 while answer:
     for word in family_words:
         if word in answer:
-            answer = input(family_response)
-    answer = input("What else do you want to talk about?")
+            response = family_response
+            break
+        else:
+            response = generic_response
+    answer = input(response)
