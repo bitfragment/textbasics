@@ -9,5 +9,4 @@ This program improves on the program in the previous exercise by randomly select
 5. Make sure the program works before proceeding to step 6.
 6. Try deliberately misspelling a relevant word when interacting with the program (for example, if you were still working with the version of the program that used family-related words, you could type "neice" instead of "niece"). Does the program still detect the misspelled word?
 7. Try capitalizing a relevant word when interacting with the program (for example, if you were still working with the version of the program that used family-related words, you could type "Mother" instead of "mother"). Does the program still detect the capitalized word?
-8. Before submitting your code, fix the "bugs" you introduced in steps 6 and 7.
-9. Click "submit" to submit your code.
+8. Click "submit" to submit your code.
